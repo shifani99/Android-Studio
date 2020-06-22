@@ -6,3 +6,4 @@ basic android studio assignments
 3. ThirdAssignment is for implicit intent that demonstrates how to go to maps, browser, email (which is in another app) using Implicit Intent.
 4. FourthAssignment.zip is a Question-Answer Android App with timer, radiobuttons.
 5. FifthAssignment.zip is gallery using ImageView and intent to open that image in new activity.
+6. SixthAssignment.zip is inshorts inspired implementation of NEWS app, wherein I have used ImageView to display the image, display news headline and body and added WebView at the bottom to link to WebViewClient's browser(which doesnt redirect to any external browser and acts like and inbuilt browser for our app)showing the original news article. NOTE: have to add INTERNET permission in AndroidManifest.xml file.
