@@ -8,3 +8,4 @@ basic android studio assignments
 5. FifthAssignment.zip is gallery using ImageView and intent to open that image in new activity.
 6. SixthAssignment.zip is inshorts inspired implementation of NEWS app, wherein I have used ImageView to display the image, display news headline and body and added WebView at the bottom to link to WebViewClient's browser(which doesnt redirect to any external browser and acts like and inbuilt browser for our app)showing the original news article. NOTE: have to add INTERNET permission in AndroidManifest.xml file.
 7. Typing Test.zip is a Typing Test App.
+8. ImageButton.zip is Image Button Code.
