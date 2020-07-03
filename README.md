@@ -10,4 +10,5 @@ basic android studio assignments
 7. Typing Test.zip is a Typing Test App.
 8. ImageButton.zip is Image Button Code.
 9. Progress Bar.zip is using the progress bar widget in MultiStep form.
-10. SeekBar.zip is a simple music app type template containing the code for seekBar
+10. SeekBar.zip is a simple music app type template containing the code for seekBar.
+11. RatingBar.zip is a mood app type template containing the code for RatingBar.
