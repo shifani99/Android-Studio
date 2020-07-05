@@ -16,4 +16,4 @@ basic android studio assignments
 13. ImageSwitcher.zip is image switching gallery type code for ImageSwitcher widget(using arrayList).
 14. ProductImage.zip is imageSwitcher in product gallery format (using hashmap).
 15. AutoCompleteTextView_Sir.zip is code for AutoCompleteTextView widget.
-16.
+16. LocationAutoComplete.zip is similar code to above with data for location.
