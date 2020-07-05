@@ -15,3 +15,5 @@ basic android studio assignments
 12. Tic-Tac-Toe.zip is the 2-player game app.
 13. ImageSwitcher.zip is image switching gallery type code for ImageSwitcher widget(using arrayList).
 14. ProductImage.zip is imageSwitcher in product gallery format (using hashmap).
+15. AutoCompleteTextView_Sir.zip is code for AutoCompleteTextView widget.
+16.
