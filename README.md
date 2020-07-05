@@ -17,3 +17,5 @@ basic android studio assignments
 14. ProductImage.zip is imageSwitcher in product gallery format (using hashmap).
 15. AutoCompleteTextView_Sir.zip is code for AutoCompleteTextView widget.
 16. LocationAutoComplete.zip is similar code to above with data for location.
+17. MultiAutoCompleteTextView.zip is simple code for the widget.
+18.MACTV_for mail recievers.zip is code of MultiAutoCompleteTextView for multiple mail recievers. 
