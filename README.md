@@ -13,3 +13,4 @@ basic android studio assignments
 10. SeekBar.zip is a simple music app type template containing the code for seekBar.
 11. RatingBar.zip is a mood app type template containing the code for RatingBar.
 12. Tic-Tac-Toe.zip is the 2-player game app.
+13. ImageSwitcher.zip is image switching gallery type code for ImageSwitcher widget.
